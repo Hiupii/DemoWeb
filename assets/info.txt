@@ -1,0 +1,6 @@
+select: giống dropdown
+	- selected: chọn sẵn
+label: có thể ấn để chọn
+(radio, checkbox) input:
+	- name: để chỉ được chọn 1
+	- checked: chọn sẵn
